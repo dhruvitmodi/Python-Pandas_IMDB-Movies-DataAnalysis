@@ -1,11 +1,10 @@
 # IMDB-Movies-DataAnalysis
-Analysis of IMDB movies data
+Analysis of IMDB movies data (raw .csv file) using python-pandas 
 
-
-
-RawData File : IMDB-Movie-Data.csv
 
 DataSource : Kaggle - https://www.kaggle.com/datasets/PromptCloudHQ/imdb-data
+
+RawData File : IMDB-Movie-Data.csv
 
 Python-Pandas Source Code : IMDB-DataAnalysis.ipynb
 
