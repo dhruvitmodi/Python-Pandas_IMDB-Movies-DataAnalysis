@@ -1,4 +1,4 @@
-# IMDB-Movies-DataAnalysis
+# Python-Pandas : IMDB-Movies-DataAnalysis
 Analysis of IMDB movies data (raw .csv file) using python-pandas 
 
 
