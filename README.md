@@ -41,3 +41,12 @@ DataAnalysis For Following Questions :
 22. Find Unique Values From Genre 
 23. How Many Films of Each Genre Were Made?
 
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+![1](https://user-images.githubusercontent.com/19344819/231978499-96ff8b0d-59f7-42df-a6e3-748f988532c9.PNG)
+
+![2](https://user-images.githubusercontent.com/19344819/231978503-ab32c5d9-be5c-445b-89ca-7408fa98f976.PNG)
+
+![3](https://user-images.githubusercontent.com/19344819/231978505-ccb34b57-f596-41f1-9b19-97d488c37346.PNG)
